@@ -1,3 +1,5 @@
-echo -e "print your word"
-read word
-echo $word
+cd test
+for i in {0..9}:
+do
+    touch "test_$i.py"
+done
