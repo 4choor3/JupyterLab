@@ -1,4 +1,5 @@
 sentence = input("请输入一个字符串：")
+# 字符串转换
 
 # 神奇方法
 sentence_finally = ""
