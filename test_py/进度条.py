@@ -1,7 +1,5 @@
 import time
 
-from regex import R
-
 for num in range(0, 101, 10):
     bar = (
         "["
