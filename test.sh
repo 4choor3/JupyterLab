@@ -1,3 +1,5 @@
+/opt/homebrew/bin/bash
+
 cd test
 for i in {0..9}:
 do
