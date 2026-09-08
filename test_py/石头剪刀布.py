@@ -24,3 +24,5 @@ if num_computer == 3:
     print("电脑最终获胜")
 elif num_user == 3:
     print("用户最终获胜")
+
+# 石头剪刀布
